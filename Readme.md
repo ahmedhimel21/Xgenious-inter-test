@@ -1,10 +1,12 @@
 **Frontend Developer Test Project**
 
-**Objective:**Build a simple, responsive webpage for a fictional "Product Showcase." This project assesses basic front-end development skills, including layout design, styling, and interactivity.
+**Objective:**
+Build a simple, responsive webpage for a fictional "Product Showcase." This project assesses basic front-end development skills, including layout design, styling, and interactivity.
 
 ***
 
-**Project Overview:**You will create a two-page website, each showcasing **Bootstrap** and **Tailwind CSS** separately. This will help demonstrate your understanding of both frameworks.
+**Project Overview:**
+You will create a two-page website, each showcasing **Bootstrap** and **Tailwind CSS** separately. This will help demonstrate your understanding of both frameworks.
 
 **Figma Design Link:**
 
